@@ -1,0 +1,6 @@
+*.class
+*.class'
+*.ctxt
+*.log
+*.bluej
+CoffeeDB/
